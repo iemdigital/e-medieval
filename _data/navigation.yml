@@ -4,6 +4,8 @@ main:
      url: /about/
    - title: "Categorias"
      sublinks:
+        - title: "Documentação"
+          url: /categories/documentacao     
         - title: "Eventos"
           url: /categories/eventos     
         - title: "Pessoas"

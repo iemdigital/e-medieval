@@ -20,7 +20,7 @@ tags:
 header:
   overlay_image: /assets/images/2024-12-19-junior-001.jpg
   overlay_filter: 0.5 
-  caption: "Túmulo de D. Teresa"
+  caption: Iluminura do Passionário de Weissenau, figurando Adão recebendo o fruto proibido de Eva e, ao mesmo tempo, colhendo um segundo fruto diretamente da árvore proibida.
 
 # imagem de amostra com 300x300 e nome terminado em -thumb
 thumbnail-img: /assets/images/2024-12-19-junior-001-thumb.jpg
@@ -63,7 +63,12 @@ ref-osm-lon:
 
 O pensamento mítico apresenta sob forma narrativa as grandes questões existenciais – origem do homem, natureza do Mal, amor, morte etc. – tratadas de maneira conceitual pelo pensamento filosófico. Na Europa medieval, enquanto os laicos pouco sabiam da discussão daqueles temas nos *scriptoria* monásticos, nas escolas de catedrais e nas universidades, todos, clérigos e leigos, tinham acesso ao conhecimento mítico presente nas tradições orais, na literatura e nas artes plásticas. Nesse capital mitológico medieval, as figuras de Adão e Eva ocuparam posição central.
 
-2024-12-19-júnior-002.jpg
+
+<figure class="align-center">
+    <a href="{{ site.baseurl }}/assets/images/2024-12-19-junior-002.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2024-12-19-junior-002.jpg"></a>
+    <figcaption class="figure-text-center">Página do <a href="https://purl.pt/23973/1/index.html#/1/html" target="_blank">Decretum Burchardi Wormatiensis</a>, Alcobaça, (1176-1190).</a></figcaption>        
+</figure>
+
 
 ## Desenvolvimento
 A força do mito era tal, que mesmo quem dizia adoptar postura antimítica não conseguia escapar a ele, caso de Santo Agostinho. Para este, “todo homem é Adão” (Agostinho, 1955: 778), as alegrias e os dramas dos *primi* parentes repetiam-se nos seus descendentes, isto é, na humanidade inteira. Mesmo Cristo, enquanto homem, provinha de Adão. No sentido inverso, Adão, perfeito antes do pecado, ressurgiu com Cristo, o *novissimus Adam*, explica o apóstolo (1 Cor. 15: 45). Simetricamente, Eva, que comera o fruto maldito, foi resgatada por Maria e o fruto bendito de seu ventre.  
@@ -71,6 +76,12 @@ A força do mito era tal, que mesmo quem dizia adoptar postura antimítica não 
 Assim, conhecer a história de Adão e Eva era nela se reconhecer. Reflectir sobre ela possibilitava compreender as vicissitudes da vida. Como o texto bíblico tratou sumariamente dessa história, a natural curiosidade por ela gerou a respeito vários textos apócrifos, muitas referências literárias, inúmeros comentários teológicos e uma vasta iconografia, que na Idade Média soma mais de três mil imagens em todos os suportes, pedra, metal, madeira, osso, parede, pergaminho, papel.
 
 As referências textuais e imagéticas a Adão e Eva são boas janelas para observar a história social medieval. Tomemos como exemplo apenas dois pontos, a condição feminina e a valoração do trabalho. A misoginia da Europa medieval decorreu das actividades de seus estratos dirigentes, o clero celibatário e a nobreza guerreira, mas sobretudo do facto de a Bíblia atribuir à mulher a culpa pela expulsão do Éden. O difundido (107 manuscritos) apócrifo *Vita Adae et Evae* insiste nisso, ao fazer Eva admitir por quatro vezes ter sido a responsável pelos males humanos. Tal episódio foi relembrado e comentado por sermões, esculturas e pinturas. Significativamente, a cena do Pecado Original – a mais representada da iconografia adâmica – na maior parte das vezes figura Eva mais próxima da serpente do que Adão. Ou, mensagem mais directa ainda, ela é que entrega o fruto proibido ao homem.   
+
+<figure class="align-center">
+    <a href="{{ site.baseurl }}/assets/images/2024-12-19-junior-001.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2024-12-19-junior-001.jpg"></a>
+    <figcaption class="figure-text-center">Iluminura do Passionário de Weissenau, figurando Adão recebendo o fruto proibido de Eva e, ao mesmo tempo, colhendo um segundo fruto diretamente da árvore proibida.</figcaption>        
+</figure>
+
 
 Contudo, a partir do século XII – não por acaso contemporaneamente ao progresso do culto à Virgem – algumas imagens adotam postura mais igualitária entre os sexos. Um capitel do mosteiro de São Pedro de Roda e um relevo de Saint-Martin de Besse mostram a serpente virada para Adão. Mais expressivo, um modilhão de Guarbecque representa Adão e Eva lado a lado, segurando juntos a mesma fruta proibida. Uma iluminura do *Passionário de Weissenau* figura Adão recebendo o fruto proibido de Eva e, ao mesmo tempo, de forma independente, colhendo um segundo fruto diretamente da Árvore Proibida.  
 

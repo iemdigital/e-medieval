@@ -4,6 +4,13 @@
 
 @media print {
 
+  @page {
+    margin-top: 0.1in !important;
+    margin-bottom: 0.5in !important;
+    margin-left: 1.25in !important;
+    margin-right: 0.5in !important;
+  }
+
   [hidden] {
     display: none;
   }
@@ -20,7 +27,7 @@
     min-height: auto !important;
     font-size: 16px;
   }
-
+/*
   body {
     margin: 0 auto;
     background: #fff !important;
@@ -31,6 +38,18 @@
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
   }
+*/
+body {
+  margin: 0 auto;
+  background: #fff !important;
+  color: #000 !important;
+  font-family: $serif;  // I sought the serif. 
+  font-size: 0.85rem;
+  line-height: 1.5;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
 
   h1,
   h2,
@@ -173,14 +192,14 @@
     white-space: pre-wrap !important;
     word-wrap: break-word;
   }
-
+/*
   a[href^='http://']:after,
   a[href^='https://']:after,
   a[href^='ftp://']:after {
     content: " (" attr(href) ")";
     font-size: 80%;
   }
-
+*/
   abbr[title]:after,
   acronym[title]:after {
     content: " (" attr(title) ")";
@@ -228,23 +247,41 @@
     }
   }
 
+
+
+span.post-author a{}  
+
+.post-label a{  }
+
+.site-title::after {
+  content: " | Enciclopédia Online da Civivlização Medieval";
+}
+.masthead__menu::after {
+  content: " \A http:// ";
+  font-size: 0.7em !important;
+}
+
+
+
 /*
    Hide the following elements on print
    ========================================================================== */
-
-  .masthead,
+  .visible-links,
+  .search__toggle,
   .toc,
   .page__share,
   .page__related,
   .pagination,
   .ads,
-  .page__footer,
+  .social-media,
   .page__comments-form,
   .author__avatar,
   .author__content,
   .author__urls-wrapper,
   .nav__list,
-  .sidebar,
+  /* .sidebar, */
+  .fa-fw,
+  p.page__taxonomy,
   .adsbygoogle {
     display: none !important;
     height: 1px !important;

@@ -3,7 +3,7 @@
 layout: single
 classes: wide
 lang: pt
-title: D. Martinho (abade de Alcobaça)
+title: D. Martinho (Abade de Alcobaça)
 excerpt: Abade do Mosteiro de Alcobaça entre 1170 e 1191
 
 # taxonomia
@@ -68,11 +68,16 @@ D. Martinho foi abade do Mosteiro de Alcobaça entre 1170 e 1191. Durante o seu 
 ## Desenvolvimento
 D. Martinho foi abade do Mosteiro de Alcobaça (imagem) entre fevereiro de 1170 e 30 de novembro de 1191 (Gomes, 2012: 140). Durante o seu abaciado, em torno de 1175, o scriptorium (link E-encyclopedia) do mosteiro deu início à produção dos códices fundamentais para a vida monástica, entre os quais se destacam livros litúrgicos, como um saltério-himnário, um sacramentário, um missal, um colectário-ritual, um himnário e um lecionário, e um antifonário, entre outros códices (Barreira, 2024: 130-135 <https://trivent-publishing.eu/img/cms/2024%20Cistercian%20Horizons/8-%20Catarina%20Fernandes%20Barreira.pdf>). 
 
-D. Martinho foi pioneiro na implementação de medidas de proteção para os livros, impondo a excomunhão a quem os retirasse do mosteiro, conforme consta no cólofon do códice BNP, Alc. 365 (<https://purl.pt/23973/1/index.html#/1/html>), que contém o Decretum de Brocardo de Worms (Nascimento, 2018: 341): “Este livro pertence a Santa Maria de Alcobaça. E eu, Martinho, o abade deste lugar, digo e confirmo que quem o tirar ou levar desta casa, pela autoridade de Deus Todo-Poderoso e de sua mãe, de São Bento, de São Bernardo e de todos os santos, seja excomungado e incida na indignação de Nosso Senhor Jesus Cristo e de Santa Maria”. (Iste liber est Sancte Marie de Alcobacia. Et ego Martinus eiusdem loci abbas dico etiam confirmo ut quicunque eum auferre aut extra domum istam dare presumpserit auctoritate <Dei> omnipotentis etiam eius genitricis etiam beati Benedicti et beati Bernardi etiam omnium sanctorum anatema sit et indignationem domini nostri Ihesu Christi et beate Marie se incurrere non dubitet).
-
 <figure class="align-center">
     <a href="{{ site.baseurl }}/assets/images/2024-11-15-barreira-001.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2024-11-15-barreira-001.jpg"></a>
     <figcaption class="figure-text-center">Vista da fachada do Mosteiro de Alcobaça</figcaption>        
+</figure>
+
+D. Martinho foi pioneiro na implementação de medidas de proteção para os livros, impondo a excomunhão a quem os retirasse do mosteiro, conforme consta no cólofon do códice BNP, Alc. 365 (<https://purl.pt/23973/1/index.html#/1/html>), que contém o Decretum de Brocardo de Worms (Nascimento, 2018: 341): “Este livro pertence a Santa Maria de Alcobaça. E eu, Martinho, o abade deste lugar, digo e confirmo que quem o tirar ou levar desta casa, pela autoridade de Deus Todo-Poderoso e de sua mãe, de São Bento, de São Bernardo e de todos os santos, seja excomungado e incida na indignação de Nosso Senhor Jesus Cristo e de Santa Maria”. (Iste liber est Sancte Marie de Alcobacia. Et ego Martinus eiusdem loci abbas dico etiam confirmo ut quicunque eum auferre aut extra domum istam dare presumpserit auctoritate <Dei> omnipotentis etiam eius genitricis etiam beati Benedicti et beati Bernardi etiam omnium sanctorum anatema sit et indignationem domini nostri Ihesu Christi et beate Marie se incurrere non dubitet).
+
+<figure class="align-center">
+    <a href="{{ site.baseurl }}/assets/images/2024-11-15-barreira-002.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2024-11-15-barreira-002.jpg"></a>
+    <figcaption class="figure-text-center">Página do <a href="https://purl.pt/23973/1/index.html#/1/html" target="_blank">Decretum Burchardi Wormatiensis</a>, Alcobaça, (1176-1190).</a></figcaption>        
 </figure>
 
 
@@ -82,10 +87,11 @@ Durante o seu abaciado, o mosteiro produziu cerca de quarenta e nove documentos 
 
 Entre 1180 e o ano seguinte, o abade racionaliza o povoamento do couto, como assim o atestam as cartas de povoamento. Em 1183, o mosteiro obteve uma nova carta de doação do couto (Gomes, 2000: 42-43; Gomes 2002: 209); em 1189, D. Sancho I doou à comunidade e ao abade, o paul da Ota; e em 1191 doa ao mosteiro e ao seu abade o castelo de Benafecim (Gomes, 2002: 210). D. Martinho foi um abade próximo do círculo régio: figura como subscritor/testemunha de documentos relevantes da chancelaria real, como a doação de Abiúl ao Mosteiro de Lorvão por D. Afonso Henriques em 1175, e como testemunha no primeiro testamento de D. Sancho I (Gomes, 2002: 210-212).
 
-<figure class="align-center">
-    <a href="{{ site.baseurl }}/assets/images/2024-11-15-barreira-002.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2024-11-15-barreira-002.jpg"></a>
-    <figcaption class="figure-text-center">Volume dedicado a Ibn Ammar na obra de <a href="https://www.castroesilva.com/store/sku/0910JC109/os-luso-arabes" target="_blank">Oliveira Parreira</a></figcaption>        
-</figure>
+
+
+
+
+
 
 
 O Papa Lúcio III dirigiu-se ao abade e aos monges de Alcobaça através da bula Religiosam Vitae em 1184 para confirmar os privilégios instituídos pelo papa anterior, bem como enunciar os novos limites territoriais do mosteiro; em 1189, o Papa Clemente III fez nova confirmação dos privilégios e reforçou a autoridade do abade perante as autoridades eclesiásticas (Gomes, 2002: 220, 227).
