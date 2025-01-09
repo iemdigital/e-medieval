@@ -139,7 +139,7 @@ background-color: #fff; color: #000 !important; text-transform: uppercase;
 .section-recent .archive__subtitle {padding-top: 8em;}
 
 
-.homebg-left {background-image: url( '/assets/images/ui/logo-capa_left.svg' );
+.homebg-left {background-image: url( '../../assets/images/ui/logo-capa_left.svg' );
   background-repeat: no-repeat;
   background-position: left top; 
   background-size: cover;
@@ -150,7 +150,7 @@ background-color: #fff; color: #000 !important; text-transform: uppercase;
   float: left;
   }
 
-.homebg-right1 {background-image: url( '/assets/images/ui/logo-capa_right.svg' );
+.homebg-right1 {background-image: url( '../../assets/images/ui/logo-capa_right.svg' );
   background-repeat: no-repeat;
   background-position: right top; 
   background-size: auto 100%;
@@ -161,7 +161,7 @@ background-color: #fff; color: #000 !important; text-transform: uppercase;
   float: right;
   }
   
-  .background-vida {background-image: url( '/assets/images/ui/deco/bg-vida.svg' );
+  .background-vida {background-image: url( '../../assets/images/ui/deco/bg-vida.svg' );
     background-repeat: no-repeat;
     background-position: center top; 
     background-size: cover;
@@ -172,7 +172,7 @@ background-color: #fff; color: #000 !important; text-transform: uppercase;
     float: right;
     }
 
-  .background-sitios {background-image: url( '/assets/images/ui/deco/bg-sitios.svg' );
+  .background-sitios {background-image: url( '../../assets/images/ui/deco/bg-sitios.svg' );
     background-repeat: no-repeat;
     background-position: center top; 
     background-size: contain;
@@ -184,7 +184,7 @@ background-color: #fff; color: #000 !important; text-transform: uppercase;
     opacity: 0.9;
 
     }
-  .background-pessoas {background-image: url( '/assets/images/ui/deco/bg-pessoas.svg' );
+  .background-pessoas {background-image: url( '../../assets/images/ui/deco/bg-pessoas.svg' );
     background-repeat: no-repeat;
     background-position: center top; 
     background-size: cover;
@@ -196,7 +196,7 @@ background-color: #fff; color: #000 !important; text-transform: uppercase;
     opacity: 0.5;
 
     }
-  .background-eventos {background-image: url( '/assets/images/ui/deco/bg-eventos.svg' );
+  .background-eventos {background-image: url( '../../assets/images/ui/deco/bg-eventos.svg' );
     background-repeat: no-repeat;
     background-position: center top; 
     background-size: contain;
@@ -212,10 +212,10 @@ background-color: #fff; color: #000 !important; text-transform: uppercase;
 .bg-left-eventos, .bg-left-pessoas, .bg-left-sitios, .bg-left-vida {margin-top: 2em; filter: grayscale(); background-repeat: no-repeat; background-position: left top; 
   background-size: 200px auto;}
 
-.bg-left-eventos {background-image: url( '/assets/images/ui/eventos-detail.png' );}
-.bg-left-pessoas {background-image: url( '/assets/images/ui/pessoas-detail.png' );}
-.bg-left-sitios {background-image: url( '/assets/images/ui/sitios-detail.png' );}
-.bg-left-vida {background-image: url( '/assets/images/ui/vida-detail.png' );}
+.bg-left-eventos {background-image: url( '../../assets/images/ui/eventos-detail.png' );}
+.bg-left-pessoas {background-image: url( '../../assets/images/ui/pessoas-detail.png' );}
+.bg-left-sitios {background-image: url( '../../assets/images/ui/sitios-detail.png' );}
+.bg-left-vida {background-image: url( '../../assets/images/ui/vida-detail.png' );}
     
 
 .home-categories .archive-thumbnail-img {padding: 2em;}
