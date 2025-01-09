@@ -1,0 +1,24 @@
+# main links
+main:
+   - title: "Sobre nós"
+     url: /about/
+   - title: "Categorias"
+     sublinks:
+        - title: "Eventos"
+          url: /categories/eventos     
+        - title: "Pessoas"
+          url: /categories/pessoas
+        - title: "Sítios e Territórios"
+          url: /categories/sitios-e-territorios
+        - title: "Vida e Cotidiano"
+          url: /categories/vida-e-cotidiano                    
+   - title: "Tags"
+     url: /tags/  
+#   - title: "Cats"
+ #    url: /categories/          
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

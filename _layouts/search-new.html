@@ -1,0 +1,127 @@
+---
+layout: default-new
+
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div id="searchmain">
+    <p id="iem-title">E-Medieval</p>
+    <p>A Enciclopédia online da Civilização Medieval ao alcance de todos.</p>
+
+
+
+    
+      {%- assign search_provider = site.search_provider | default: "lunr" -%}
+      {%- case search_provider -%}
+        {%- when "lunr" -%}
+          <input type="text" id="search" class="icon-search-inside search-input searchmain" placeholder="{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'Pesquisar...' }}" />
+          
+          <div id="results" class="results resultshome"></div>
+        {%- when "google" -%}
+          <form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id">
+          <input type="text" id="cse-search-input-box-id" class="search-input" placeholder="{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}" />
+          </form>
+          <div id="results" class="results">
+            <gcse:searchresults-only></gcse:searchresults-only>
+          </div>
+        {%- when "algolia" -%}
+          <div class="search-searchbar"></div>
+          <div class="search-hits"></div>
+      {%- endcase -%}
+    </div>
+
+
+    <section class="section-categories">
+    <h3 class="archive__subtitle">Categorias1</h3>
+
+    <div class="entries-grid home-categories">
+
+      <div class="grid__item">
+        <article class="archive__item home"><a href="/categories/eventos" class="link-category-eventos">
+          <div class="archive-thumbnail-main">
+            <div class="archive-thumbnail-div-1"><img class="archive-thumbnail-img" src="assets/images/ui/eventos-detail.png"></div>
+            <div class="archive-thumbnail-div-2">
+              <h2 class="archive__item-title">Eventos</h2>
+              <br>
+            </div>
+          </div></a>
+        </article>
+      </div>
+
+      <div class="grid__item">
+        <article class="archive__item home"><a href="/categories/pessoas" class="link-category-eventos">
+          <div class="archive-thumbnail-main">
+            <div class="archive-thumbnail-div-1"><img class="archive-thumbnail-img" src="assets/images/ui/pessoas-detail.png"></div>
+            <div class="archive-thumbnail-div-2">
+              <h2 class="archive__item-title">Pessoas</h2>
+              <br>
+            </div>
+          </div></a>
+        </article>
+      </div>
+
+      <div class="grid__item">
+        <article class="archive__item home"><a href="/categories/sitios-e-territorios" class="link-category-eventos">
+          <div class="archive-thumbnail-main">
+            <div class="archive-thumbnail-div-1"><img class="archive-thumbnail-img" src="assets/images/ui/sitios-detail.png"></div>
+            <div class="archive-thumbnail-div-2">
+              <h2 class="archive__item-title">Sítios e Territórios</h2>
+              <br>
+            </div>
+          </div></a>
+        </article>
+      </div>
+
+      <div class="grid__item">
+        <article class="archive__item home"><a href="/categories/vida-e-cotidiano" class="link-category-eventos">
+          <div class="archive-thumbnail-main">
+            <div class="archive-thumbnail-div-1"><img class="archive-thumbnail-img" src="assets/images/ui/vida-detail.png"></div>
+            <div class="archive-thumbnail-div-2">
+              <h2 class="archive__item-title">Vida e Cotidiano</h2>
+              <br>
+            </div>
+          </div></a>
+        </article>
+      </div>
+
+    </div>
+  </section>
+
+  <br /><br /><br />
+
+  <section class="section-recent">
+
+     
+
+        <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+    
+          {% if paginator %}
+            {% assign posts = paginator.posts %}
+          {% else %}
+            {% assign posts = site.posts %}
+          {% endif %}
+          
+          {% assign entries_layout = page.entries_layout | default: 'grid' %}
+          <div class="entries-{{ entries_layout }}">
+            {% include documents-collection.html entries=posts type=entries_layout %}
+          </div>
+          
+          <!-- {% include paginator.html %} -->
+
+          </section>
+
+
+
+</div>
