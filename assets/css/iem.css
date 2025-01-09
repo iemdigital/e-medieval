@@ -265,12 +265,12 @@ text-decoration: none;
 .btnprint{ background-color: #ececec !important;  color: #000;}
 .btnprint:hover{ background-color: #f4f4f4 !important;}
 
-@media print {
-  @page {
-    margin-left: 0.8in;
-    margin-right: 0.8in;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-  h1#pagetitle {font-size: 1em;}
+
+.page__hero--overlay {
+  -webkit-animation: intro .5s both !important;
+    animation-delay: 0s;
+  animation: intro .5s both !important;
+    animation-delay: 0s;
+  -webkit-animation-delay: .1s !important;
+  animation-delay: .1s !important;
 }
