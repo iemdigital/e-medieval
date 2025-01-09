@@ -16,6 +16,7 @@ tags:
   - Guerra
   - Século XII
 
+
 # cabeçalho
 header:
   overlay_image: /assets/images/2024-10-29-almeida-002.jpg

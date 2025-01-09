@@ -60,7 +60,7 @@ ref-osm-zoom:
 
 ---
 ## Introdução
-Durante a Idade Média prevaleceu uma visão sacralizada da natureza. Os letrados medievais acreditavam que, sendo uma criação divina, a natureza tinha inscritos os ensinamentos morais e religiosos a serem seguidos pelos cristãos. Através de uma abordagem simbólico-alegórica, tentavam descortiná-los, num processo que remetia para o realizado pela exegese bíblica. Esta visão teve a sua origem na Patrística. A penetração dos textos aristotélicos, efetuada a partir de finais do século XII, possibilitou o desabrochar de uma abordagem mais racionalista do mundo físico, a partir da sua observação.
+Durante a Idade Média prevaleceu uma visão sacralizada da natureza. Os letrados medievais acreditavam que, sendo uma criação divina, a natureza tinha inscritos os ensinamentos morais e religiosos a serem seguidos pelos cristãos. Através de uma abordagem simbólico-alegórica, tentavam descortiná-los, num processo que remetia para o realizado pela exegese bíblica. Esta visão teve a sua origem na Patrística. A penetração dos textos aristotélicos, efetuada a partir de finais do século XII, possibilitou o desabrochar de uma abordagem mais racionalista do mundo físico, a partir da sua observação. 
 
 
 ## Desenvolvimento
