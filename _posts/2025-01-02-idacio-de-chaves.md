@@ -19,7 +19,7 @@ tags:
 header:
   overlay_image: /assets/images/2025-01-02-veloso-001.jpg
   overlay_filter: 0.5 
-  caption: Chronicon na versão publicada por [**Lutetiae Parisiorum em 1619**](https://archive.org/details/IdatiiEpiscopiChroniconEtFastiConsu/){:target="_blank"}
+  caption: Chronicon na versão publicada por [**Lutetiae Parisiorum em 1619**](https://archive.org/details/IdatiiEpiscopiChroniconEtFastiConsu/){:target="_blank"}. [Imagem em Domínio Público]
 
 # imagem de amostra com 300x300 e nome terminado em -thumb
 thumbnail-img: /assets/images/2025-01-02-veloso-001-thumb.jpg
@@ -71,7 +71,7 @@ A principal fonte para o conhecimento da vida de Idácio é a própria crónica 
 
 <figure class="align-center">
     <a href="{{ site.baseurl }}/assets/images/2025-01-02-veloso-001.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2025-01-02-veloso-001.jpg"></a>
-    <figcaption class="figure-text-center">Detalhe nas páginas iniciais do Chronicon na versão publicada por <a href="https://archive.org/details/IdatiiEpiscopiChroniconEtFastiConsu/" target="_blank">Lutetiae Parisiorum em 1619</a>.</figcaption>        
+    <figcaption class="figure-text-center">Detalhe nas páginas iniciais do Chronicon na versão publicada por <a href="https://archive.org/details/IdatiiEpiscopiChroniconEtFastiConsu/" target="_blank">Lutetiae Parisiorum em 1619</a>. [Imagem em Domínio Público]</figcaption>        
 
 </figure>
 

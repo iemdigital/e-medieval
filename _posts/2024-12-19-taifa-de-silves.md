@@ -20,7 +20,7 @@ tags:
 header:
   overlay_image: /assets/images/2024-12-19-silva-003.jpg
   overlay_filter: 0.5
-  caption: Gravura de Silves de 1842. Retirado de [**Hemeroteca Municipal de Lisboa**](https://hemerotecadigital.cm-lisboa.pt/OBRAS/OPanorama/1842/N27/N27_item1/P1.html){:target="_blank"}
+  caption: Gravura de Silves de 1842. Retirado de [**Hemeroteca Municipal de Lisboa**](https://hemerotecadigital.cm-lisboa.pt/OBRAS/OPanorama/1842/N27/N27_item1/P1.html){:target="_blank"} [Imagem em Domínio Público]
 
 # imagem de amostra com 300x300 e nome terminado em -thumb
 thumbnail-img: /assets/images/2024-12-19-silva-thumb.jpg
@@ -74,7 +74,7 @@ As disputas internas e externas que minam a estabilidade e a unidade política d
 
 <figure class="align-center">
     <a href="{{ site.baseurl }}/assets/images/2024-12-19-silva-003.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2024-12-19-silva-003.jpg"></a>
-    <figcaption class="figure-text-center">Gravura de Silves de 1842. Publicada no jornal <i>O panorama</i>, Vol. I, 1º da 2ª Série, N.º 27, 1 de Julho de 1842, pag.209. <br>Retirado de: <a href="https://hemerotecadigital.cm-lisboa.pt/OBRAS/OPanorama/1842/N27/N27_item1/P1.html" target="_blank">Hemeroteca Municipal de Lisboa</a>.</figcaption>        
+    <figcaption class="figure-text-center">Gravura de Silves da autoria de José Maria Baptista Coelho publicada no jornal <i>O panorama</i>, Vol. I, 1º da 2ª Série, N.º 27, 1 de Julho de 1842, pag.209. <br>Retirado de: <a href="https://hemerotecadigital.cm-lisboa.pt/OBRAS/OPanorama/1842/N27/N27_item1/P1.html" target="_blank">Hemeroteca Municipal de Lisboa</a>. [Imagem em Domínio Público]</figcaption>        
 </figure>
 
 

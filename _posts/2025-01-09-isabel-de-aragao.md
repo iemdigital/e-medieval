@@ -19,10 +19,10 @@ tags:
 header:
   overlay_image: /assets/images/2025-01-09-Vairo-001.jpg
   overlay_filter: 0.5 
-  caption: Túmulo de [**Isabel de Aragão**](imagem da autora){:target="_blank"}
+  caption: Túmulo de **Isabel de Aragão**. [Imagem da autora]
 
 # imagem de amostra com 300x300 e nome terminado em -thumb
-thumbnail-img: /assets/images/none-thumb.jpg
+thumbnail-img: /assets/images/2025-01-09-Vairo-001-thumb.jpg
 
 # utilidades
 author_profile: false
@@ -76,13 +76,13 @@ Após a morte do esposo (7 de janeiro de 1325), a viúva foi em peregrinação a
 
 <figure class="align-center">
     <a href="{{ site.baseurl }}/assets/images/2025-01-09-Vairo-001.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2025-01-09-Vairo-001.jpg"></a>
-    <figcaption class="figure-text-center">Túmulo de Isabel de Aragão. Imagem da autora.</figcaption>        
+    <figcaption class="figure-text-center">Túmulo de Isabel de Aragão. [Imagem da autora]</figcaption>        
 </figure>
 
 D. Isabel morreu a 4 de julho de 1336 em Estremoz. No dia seguinte, decidiu-se conduzir o corpo para Coimbra a fim de receber sepultura na igreja das clarissas em observância das últimas vontades da soberana, sendo depositado dentro do mausoléu mandado esculpir por ela ainda em vida (Rossi Vairo, 2016: 84-97). Após uma tentativa de canonização depois da morte, D. Isabel foi antes beatificada em 1516 e, a seguir, elevada às honras dos altares como Santa Isabel de Portugal a 25 de maio de 1625, sendo popularmente conhecida como a Rainha Santa (Vasconcelos, 1893-1894). 
 
 ## Bibliografia
-###Manuscrita: 
+### Manuscrita: 
 
 *Livro Que Fala da Boa Vida Que Fez a Rainha de Portugal, Dona Isabel, e de Seus Bons Feitos e Milagres em Sa Vida e depois Sa Morte* (1592) – Coimbra, Museu Nacional de Machado de Castro, cód. n.° 2221. 
 
@@ -91,7 +91,7 @@ D. Isabel morreu a 4 de julho de 1336 em Estremoz. No dia seguinte, decidiu-se c
 *Inventarium Actorum et Iurium 1611-1617*. Apostólico Vaticano, Congr. Riti, Processus, 502.
 
 
-###Impressa:
+### Impressa:
 
 ANDRADE, Maria Filomena (2012) – *Rainha Santa Mãe Exemplar Isabel de Aragão*. Lisboa: Círculo de Leitores.
 
@@ -136,7 +136,7 @@ ROSSI VAIRO, Giulia (2021) – De Rainha a Santa: a evolução da iconografia de
 VASCONCELOS, António Garcia Ribeiro de (1893-1894) – *Evolução do Culto de Dona Isabel de Aragão Esposa do Rei Lavrador Dom Dinis de Portugal (a Rainha Santa) *, 2 vols. Coimbra: Imprensa da Universidade. 
 
 
-###Digital:
+### Digital:
 
 BORGES, Nelson Correia, et al. (2004) – *Isabel de Aragão e de Portugal. Memórias de Uma Rainha Santa*, Coimbra: Mediaprimer (CD-ROM); 
 
@@ -149,7 +149,7 @@ ROSSI VAIRO, Giulia (2020) – Isabel d’Aragona, regina consorte di Portogallo
 ROSSI VAIRO, Giulia (2022) – Dalla cappella funeraria al coro: la sepoltura di Isabel d’Aragona, regina consorte del Portogallo, nel monastero di Santa Clara e Santa Isabel di Coimbra. In Morvan, H. dir. – *Spaces for friars and nuns: Mendicant choirs and church interiors in medieval and early modern Europe*. Roma: Collection de l’École Française de Rome, p. 277-300.
 
 
-###Links:
+### Links:
 http://www.artis.letras.ulisboa.pt/publicacao_outros,10,106,966,detalhe.aspx; 
 
 http://www.serena.unina.it/index.php/rm/article/view/6801

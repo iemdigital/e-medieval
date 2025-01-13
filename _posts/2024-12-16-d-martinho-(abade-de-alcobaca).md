@@ -19,7 +19,7 @@ tags:
 header:
   overlay_image: /assets/images/2024-11-15-barreira-001.jpg
   overlay_filter: 0.2
-  caption: Vista da fachada do Mosteiro de Alcobaça
+  caption: Vista da fachada do Mosteiro de Alcobaça. [Imagem da autora]
 
 # imagem de amostra com 300x300 e nome terminado em -thumb
 thumbnail-img: /assets/images/2024-11-15-barreira-001-thumb.jpg
@@ -70,14 +70,14 @@ D. Martinho foi abade do Mosteiro de Alcobaça (imagem) entre fevereiro de 1170 
 
 <figure class="align-center">
     <a href="{{ site.baseurl }}/assets/images/2024-11-15-barreira-001.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2024-11-15-barreira-001.jpg"></a>
-    <figcaption class="figure-text-center">Vista da fachada do Mosteiro de Alcobaça</figcaption>        
+    <figcaption class="figure-text-center">Vista da fachada do Mosteiro de Alcobaça. [Imagem da autora]</figcaption>        
 </figure>
 
 D. Martinho foi pioneiro na implementação de medidas de proteção para os livros, impondo a excomunhão a quem os retirasse do mosteiro, conforme consta no cólofon do códice BNP, Alc. 365 (<https://purl.pt/23973/1/index.html#/1/html>), que contém o Decretum de Brocardo de Worms (Nascimento, 2018: 341): “Este livro pertence a Santa Maria de Alcobaça. E eu, Martinho, o abade deste lugar, digo e confirmo que quem o tirar ou levar desta casa, pela autoridade de Deus Todo-Poderoso e de sua mãe, de São Bento, de São Bernardo e de todos os santos, seja excomungado e incida na indignação de Nosso Senhor Jesus Cristo e de Santa Maria”. (Iste liber est Sancte Marie de Alcobacia. Et ego Martinus eiusdem loci abbas dico etiam confirmo ut quicunque eum auferre aut extra domum istam dare presumpserit auctoritate <Dei> omnipotentis etiam eius genitricis etiam beati Benedicti et beati Bernardi etiam omnium sanctorum anatema sit et indignationem domini nostri Ihesu Christi et beate Marie se incurrere non dubitet).
 
 <figure class="align-center">
     <a href="{{ site.baseurl }}/assets/images/2024-11-15-barreira-002.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2024-11-15-barreira-002.jpg"></a>
-    <figcaption class="figure-text-center">Página do <a href="https://purl.pt/23973/1/index.html#/1/html" target="_blank">Decretum Burchardi Wormatiensis</a>, Alcobaça, (1176-1190).</a></figcaption>        
+    <figcaption class="figure-text-center">Página do <a href="https://purl.pt/23973" target="_blank">Decretum Burchardi Wormatiensis</a>, Alcobaça, (1176-1190). [Imagem em Domínio Público]</figcaption>        
 </figure>
 
 

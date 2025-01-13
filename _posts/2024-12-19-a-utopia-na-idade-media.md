@@ -20,7 +20,7 @@ tags:
 header:
   overlay_image: /assets/images/2024-12-19-utopia-junior-001.jpg
   overlay_filter: 0.3
-  caption: Ilustração publicada em 1518 por [**Apud inclytam Basileam / Apud Ioannem Frobenium**](https://archive.org/details/deoptimoreipstat00more){:target="_blank"}
+  caption: Ilustração publicada em 1518 por [**Apud inclytam Basileam / Apud Ioannem Frobenium**](https://archive.org/details/deoptimoreipstat00more){:target="_blank"} [Imagem em Domínio Público]
 
 # imagem de amostra com 300x300 e nome terminado em -thumb
 thumbnail-img: /assets/images/2024-12-19-utopia-junior-001-thumb.jpg
@@ -68,7 +68,7 @@ De um lado, é simplista reduzir o surgimento de um sentimento, ideia, fenómeno
 
 <figure class="align-center">
     <a href="{{ site.baseurl }}/assets/images/2024-12-19-utopia-junior-001.jpg"><img class="metade" src="{{ site.baseurl }}/assets/images/2024-12-19-utopia-junior-001.jpg"></a>
-    <figcaption class="figure-text-center">Ilustração publicada por <a href="https://archive.org/details/deoptimoreipstat00more" target="_blank">Apud inclytam Basileam. : Apud Ioannem Frobenium em 1518</a>.</figcaption>        
+    <figcaption class="figure-text-center">Ilustração publicada por <a href="https://archive.org/details/deoptimoreipstat00more" target="_blank">Apud inclytam Basileam. : Apud Ioannem Frobenium em 1518</a>. [Imagem em Domínio Público]</figcaption>        
 </figure>
 
 
