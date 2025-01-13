@@ -1,27 +1,52 @@
-<div class="page__footer-follow">
-  <ul class="social-icons">
-<!--    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
--->
-<div class="social-media">
-  <a aria-label="Facebook" href="https://www.facebook.com/InstitutoEstudosMedievais/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-<a aria-label="YouTube" href="https://www.youtube.com/user/IEMedievais" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+
+
+<div class="entries-grid">
+
+  
+  
+  <div class="grid__item footr-item">
+    
+    <div class="page__footer-follow">
+          <ul class="social-icons">
+        <!--    {% if site.data.ui-text[site.locale].follow_label %}
+              <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+            {% endif %}
+        -->        
+          <li class="social-media"><a aria-label="Facebook" href="https://www.facebook.com/InstitutoEstudosMedievais/" target="_blank"><i class="fa-brands fa-facebook-f fa-lg"></i></a></li>
+          <li class="social-media"><a aria-label="YouTube" href="https://www.youtube.com/user/IEMedievais" target="_blank"><i class="fa-brands fa-youtube fa-lg"></i></a></li>
+        
+            {% if site.footer.links %}
+              {% for link in site.footer.links %}
+                {% if link.label and link.url %}
+                  <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+        
+            {% unless site.atom_feed.hide %}
+              <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+            {% endunless %}
+          </ul>
+    </div>
+    <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.copyright | default: site.title }} <br /> 
+      <a href="https://iem.fcsh.unl.pt">{{ author.name }}</a>
+    </div>
+  </div>
+
+<div class="grid__item hideme-fix">  </div>
+<div class="grid__item hideme-fix">  </div>
+
+
+  <div class="grid__item ">
+    <img src="assets/images/ui/financiamento_logos-1-2.svg">
+    <div class="fct-note">Instituto de Estudos Medievais. Financiado pela Fundação para Ciência e a Tecnologia, I. P. (UIDB/00749/2020 - https://doi.org/10.54499/UIDB/00749/2020; UIDP/00749/2020 - https://doi.org/10.54499/UIDP/00749/2020)</div>    
+  </div>
+
+
+
+
+
 </div>
 
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
 
-    {% unless site.atom_feed.hide %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endunless %}
-  </ul>
-</div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.copyright | default: site.title }} | <a href="https://iem.fcsh.unl.pt">{{ author.name }}</a>. 
-</div>

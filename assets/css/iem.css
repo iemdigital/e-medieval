@@ -86,11 +86,29 @@ border-top: 1px solid rgb(205.5,206.75,208.75);
 background-color: #fff; color: #000 !important; text-transform: uppercase;
   }
 
-.social-media i{color: #c1c1bc !important;}
+.social-media i{color: #c1c1bc !important; font-size: 2em;}
 .social-media i:hover{color: #821917 !important;}
+
 .page__footer-copyright {font-size: 0.6rem;}
 .page__footer-copyright a{color: #222 !important; }
 .page__footer-copyright a:hover{text-decoration: underline; color: #821917 !important;}
+
+.fct-note {text-transform: none !important;
+  padding-top: 1px;
+
+  font-size: 0.5em;
+  line-height: 15px;
+  letter-spacing: 0.8px;
+  
+}
+
+@media (max-width: 48em) {
+  .hideme-fix {
+    display: none;
+  }
+}
+
+
 
 
 
