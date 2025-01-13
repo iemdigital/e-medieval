@@ -16,6 +16,5 @@ header:
 author_profile: true
 sidebar-bgimage: vida
 background-vida: true
-
 ---
 
