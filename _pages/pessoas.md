@@ -11,7 +11,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/ui/deco/bg-pessoas.jpg
-  caption: Ilustração de autor desconhecido publicada na [**Tacuinum Sanitatis**](https://commons.wikimedia.org/wiki/File:41-svaghi,_passeggiare,Taccuino_Sanitatis,_Casanatense_4182..jpg){:target="_blank"} (séc. XIV)
+  caption: Ilustração de autor desconhecido publicada na [**Tacuinum Sanitatis**](https://commons.wikimedia.org/wiki/File:41-svaghi,_passeggiare,Taccuino_Sanitatis,_Casanatense_4182..jpg){:target="_blank"} (séc. XIV) [Imagem em Domínio Público]
 
 author_profile: true
 sidebar-bgimage: pessoas

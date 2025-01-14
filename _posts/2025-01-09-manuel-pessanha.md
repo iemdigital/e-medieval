@@ -17,7 +17,7 @@ tags:
 
  # cabeçalho
 header:
-  overlay_image: /assets/images/2025-01-09-Vairo-001.jpg
+  overlay_image: /assets/images/none.jpg
   overlay_filter: 0.5 
   caption: 
 
@@ -55,8 +55,8 @@ related-four:
 
 
 # dados para georeferenciação inserir {% include ref-osm.html %} no local onde é para surgir mapa. Zoom entre 1 e 20
-ref-osm-lat: 38.709722
-ref-osm-lon: -9.132778
+ref-osm-lat: 44.41667
+ref-osm-lon: 8.93333
 ref-osm-zoom: 7
 
 ---

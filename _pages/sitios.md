@@ -10,7 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/ui/deco/bg-sitios.jpg
-  caption: Ilustração de Jean Fouquet publicada nas [**Grandes Chroniques de France**](https://en.m.wikipedia.org/wiki/File:Mort_de_Bertrand_Du_Guesclin.jpg){:target="_blank"} (circa 1455 - circa 1460)
+  caption: Ilustração do [**Armorial d'Auvergne**](https://commons.wikimedia.org/wiki/File:La_ville_et_le_chateau_de_saint_germain_d_elaval_P440_corrig%C3%A9.jpg){:target="_blank"} (1450 - 1460) [Imagem em Domínio Público]
 
 author_profile: true
 sidebar-bgimage: sitios

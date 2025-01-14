@@ -18,12 +18,13 @@ tags:
 
  # cabeçalho
 header:
-  overlay_image: /assets/images/none.jpg
-  overlay_filter: 0.5 
-  caption: 
+  overlay_image: /assets/images/2025-01-09-chambel-001.jpg
+  overlay_filter: 0.2
+  caption: Detalhe de iluminura do [**Bestiário de Worksop (séc. XII)**](https://commons.wikimedia.org/wiki/File:Sawfish_and_Ship_-_Google_Art_Project.jpg){:target="_blank"}. [Imagem em Domínio Público]
+
 
 # imagem de amostra com 300x300 e nome terminado em -thumb
-thumbnail-img: /assets/images/none-thumb.jpg
+thumbnail-img: /assets/images/2025-01-09-chambel-001-thumb.jpg
 
 # utilidades
 author_profile: false
