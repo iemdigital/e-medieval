@@ -3,7 +3,12 @@
 {% assign posts = site.categories[include.taxonomy] | sort: "title" | where_exp: "post", "post.hidden != true" %}
 {%- for post in posts -%}
   {% include archive-single.html %}
-{%- endfor -%}
+  {%- endfor -%}
+  
+  {% if site.categories[include.taxonomy].size > 2 %}
+  <a href="#topo" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Voltar ao Início' }} &uarr;</a>
+  {% endif %}
+
 </div>
 
 
