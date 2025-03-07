@@ -8,7 +8,7 @@ excerpt: O conceito filosófico e ideológico de Utopia nos tempos medievais
 
 # taxonomia
 categories:
-  - Vida e Cotidiano
+  - Cotidiano
 tags:
   - Tomás More
   - Desigualdade

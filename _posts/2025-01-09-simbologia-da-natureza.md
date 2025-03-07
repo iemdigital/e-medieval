@@ -8,7 +8,7 @@ excerpt: A visão sacralizada da natureza durante a Idade Média.
 
 # taxonomia
 categories:
-  - Vida e Cotidiano
+  - Cotidiano
 tags:
   - Bíblia
   - Século XII

@@ -12,8 +12,8 @@ main:
           url: /categories/pessoas
         - title: "Sítios e Territórios"
           url: /categories/sitios-e-territorios
-        - title: "Vida e Cotidiano"
-          url: /categories/vida-e-cotidiano                    
+        - title: "Cotidiano"
+          url: /categories/cotidiano                    
    - title: "Tags"
      url: /tags/  
 #   - title: "Cats"

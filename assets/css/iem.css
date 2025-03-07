@@ -280,8 +280,24 @@ text-decoration: none;
   white-space: nowrap;
 }
 
-.btnprint{ background-color: #ececec !important;  color: #000;}
-.btnprint:hover{ background-color: #f4f4f4 !important;}
+
+.btn {
+  background-color: #fff !important;
+  border-color: rgb(154.125,155.0625,156.5625) !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border-radius: 0 !important;
+  font-weight: normal !important;
+  color: #000 !important;
+}
+
+.btnprint:hover{  color: #821917 !important; }
+.btnprint {color: #000;  border-color: rgb(154.125,155.0625,156.5625); border-width: 1px; border-style: solid; border-radius: 0;}  
+
+  
+.btn--facebook:hover {color:#3b5998 !important; background-color: #fff !important;}
+.btn--twitter:hover {color:rgb(68,137.6,190.4) !important; background-color: #fff !important;}
+.btn--linkedin:hover {color:rgb(0,98.4,145.6) !important; background-color: #fff !important;}
 
 
 .page__hero--overlay {
@@ -291,4 +307,60 @@ text-decoration: none;
     animation-delay: 0s;
   -webkit-animation-delay: .1s !important;
   animation-delay: .1s !important;
+}
+
+figcaption  {width: 80%; margin-left: auto; margin-right: auto;}
+
+
+
+/* Style the tab */
+.tab {overflow: hidden; border: 0px solid #ccc;}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+
+
+  border-color: rgb(154.125,155.0625,156.5625) !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border-radius: 0 !important;
+
+  font-size: .85em;
+  font-family: "Raleway",-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+  font-weight: 900;
+}
+
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #fff;
+  color: #821917 !important;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #fff;
+  color: #821917 !important;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  border-top: none;
+}
+
+.tabcontent {
+  animation: fadeEffect 1s; /* Fading effect takes 1 second */
+}
+
+/* Go from zero to full opacity */
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
 }

@@ -8,13 +8,14 @@ excerpt: Pensamento mítico e imaginário medieval
 
 # taxonomia
 categories:
-  - Vida e Cotidiano
+  - Cotidiano
 tags:
   - Pensamento Mítico
   - Texto Bíblico
   - História Social Medieval 
   - Expulsão do Éden
   - Arte Medieval
+  - Cristianismo
 
 # cabeçalho
 header:
@@ -48,8 +49,8 @@ ref-author-medievalista: JÚNIOR, Hilário Franco
 ref-date: 2024-12-19
 
 # dados para artigos relacionados
-related: true
-related-one: A Utopia na Idade Média
+related: 
+related-one:
 related-two: 
 related-three: 
 related-four:   

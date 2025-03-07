@@ -1,10 +1,10 @@
 ---
-title: Vida e Cotidiano
+title: Cotidiano
 layout: category
 entries_layout: list
 classes: wide
-permalink: /categories/vida-e-cotidiano/
-taxonomy: Vida e Cotidiano
+permalink: /categories/cotidiano/
+taxonomy: Cotidiano
 author_profile: false
 excerpt: "Artigos sobre o cotidiano"
 header:

@@ -13,8 +13,6 @@ tags:
   - Animais
   - Século XII
   - Literatura
-  - teste
-  - teste 1  
 
  # cabeçalho
 header:
@@ -49,10 +47,10 @@ ref-author-medievalista: CHAMBEL, Pedro
 ref-date: 2025-01-09
 
 # dados para artigos relacionados
-related: true
-related-one: A Utopia na Idade Média
-related-two: Adão e Eva no imaginário medieval
-related-three: Simbologia da Natureza  
+related: 
+related-one:
+related-two: 
+related-three: 
 related-four:  
 
 
